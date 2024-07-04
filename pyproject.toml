@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "tools-api"
+name = "airlines-customer-support"
 version = "0.1.0"
 description = ""
 authors = ["Sumit Guha <sumit03guha@gmail.com>"]
